@@ -4,7 +4,7 @@
 <h3 align="left">Find me around the web:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/varshini-viswanathan" target="blank">
-    <img src="Assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
