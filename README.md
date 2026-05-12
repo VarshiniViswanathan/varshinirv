@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I'm Varshini <img src="Assets/Hi.gif" width="29px">
 </h1>
 <p align="left">I'm a Application Developer. Some technologies I enjoy working with include Angular, SpringBoot, Java, SQL and many more.</p>
+<img align="left" width="200" height="250" src="octocat.png">
 <h3 align="left">Find me around the web:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/varshini-viswanathan" target="blank">
